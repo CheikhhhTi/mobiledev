@@ -1,5 +1,5 @@
-import Weather from '@/exercises/gps';
+import App from '@/exercises/labtest';
 
-export default function App() {
-  return <Weather />;
+export default function Water() {
+  return <App />;
 }
